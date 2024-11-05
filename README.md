@@ -6,6 +6,7 @@ This project integrates several powerful libraries to enhance your Webflow build
 
 -   **GSAP**
 -   **LocomotiveScroll**
+-   **Lenis**
 -   **OverlayScrollbars**
 -   **Swiper**
 

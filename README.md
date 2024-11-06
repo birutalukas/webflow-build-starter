@@ -22,13 +22,19 @@ in the project root.
 
 For local development, we recommend using VS Code with the Live Server extension.
 
+Install dependencies
+
+```bash
+npm i
+```
+
 Start the server and run
 
 ```bash
 npm run watch
 ```
 
-to begin.
+to begin build process and watch changes.
 
 ### Setting Up Styles and Scripts in Webflow
 
